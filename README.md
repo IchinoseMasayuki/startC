@@ -1,4 +1,6 @@
-個人用に使っています。
-
-
-  やさしいC第4版のサンプル、また作成するもの、および課題をアップロードしています。
+echo "# StartC" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/IchinoseMasayuki/new.git
+git push -u origin master
